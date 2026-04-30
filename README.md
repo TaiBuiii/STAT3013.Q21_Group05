@@ -1,6 +1,6 @@
 # STAT3013.Q21_Group05
 
-# Prediction of E-Commerce Repurchase Behavior Using Deep Learning and Gradient Boosting Models
+# Prediction of Customers' Conversion Using Deep Learning and Gradient Boosting Models
 
 **Course:** STAT3013 — University of Information Technology, VNU-HCM  
 **Group:** STAT3013.Q21_Group05  
